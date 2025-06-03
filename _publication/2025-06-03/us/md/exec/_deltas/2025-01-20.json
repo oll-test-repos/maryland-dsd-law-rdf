@@ -1,0 +1,232 @@
+{
+  "data": [
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "27|01|02",
+      "ptag": "container",
+      "cite": "27.01.02",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/27.01.02",
+      "doc_mpath": "Code of Maryland Regulations|27|01|02|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "27|01|02|.01",
+      "ptag": "section",
+      "cite": "27.01.02.01",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/27.01.02.01",
+      "doc_mpath": "Code of Maryland Regulations|27|01|02|.01|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "27|01|02|.01-1",
+      "ptag": "section",
+      "cite": "27.01.02.01-1",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/27.01.02.01-1",
+      "doc_mpath": "Code of Maryland Regulations|27|01|02|.01-1|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "27|01|02|.02",
+      "ptag": "section",
+      "cite": "27.01.02.02",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/27.01.02.02",
+      "doc_mpath": "Code of Maryland Regulations|27|01|02|.02|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "27|01|02|.02-1",
+      "ptag": "section",
+      "cite": "27.01.02.02-1",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/27.01.02.02-1",
+      "doc_mpath": "Code of Maryland Regulations|27|01|02|.02-1|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "27|01|02|.02-2",
+      "ptag": "section",
+      "cite": "27.01.02.02-2",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/27.01.02.02-2",
+      "doc_mpath": "Code of Maryland Regulations|27|01|02|.02-2|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "27|01|02|.03",
+      "ptag": "section",
+      "cite": "27.01.02.03",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/27.01.02.03",
+      "doc_mpath": "Code of Maryland Regulations|27|01|02|.03|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "27|01|02|.04",
+      "ptag": "section",
+      "cite": "27.01.02.04",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/27.01.02.04",
+      "doc_mpath": "Code of Maryland Regulations|27|01|02|.04|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "27|01|02|.05",
+      "ptag": "section",
+      "cite": "27.01.02.05",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/27.01.02.05",
+      "doc_mpath": "Code of Maryland Regulations|27|01|02|.05|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "27|01|02|.06",
+      "ptag": "section",
+      "cite": "27.01.02.06",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/27.01.02.06",
+      "doc_mpath": "Code of Maryland Regulations|27|01|02|.06|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "27|01|02|.06-1",
+      "ptag": "section",
+      "cite": "27.01.02.06-1",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/27.01.02.06-1",
+      "doc_mpath": "Code of Maryland Regulations|27|01|02|.06-1|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "27|01|02|.06-2",
+      "ptag": "section",
+      "cite": "27.01.02.06-2",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/27.01.02.06-2",
+      "doc_mpath": "Code of Maryland Regulations|27|01|02|.06-2|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "27|01|02|.06-3",
+      "ptag": "section",
+      "cite": "27.01.02.06-3",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/27.01.02.06-3",
+      "doc_mpath": "Code of Maryland Regulations|27|01|02|.06-3|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "27|01|02|.06-4",
+      "ptag": "section",
+      "cite": "27.01.02.06-4",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/27.01.02.06-4",
+      "doc_mpath": "Code of Maryland Regulations|27|01|02|.06-4|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "27|01|02|.07",
+      "ptag": "section",
+      "cite": "27.01.02.07",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/27.01.02.07",
+      "doc_mpath": "Code of Maryland Regulations|27|01|02|.07|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "27|01|02|.08",
+      "ptag": "section",
+      "cite": "27.01.02.08",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/27.01.02.08",
+      "doc_mpath": "Code of Maryland Regulations|27|01|02|.08|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 1",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/md/exec/register/52/1",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 1|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-06-03",
+  "codified_date": "2025-01-20",
+  "reasons": {
+    "Maryland Register, Volume 52, Issue 1": [
+      "effective"
+    ]
+  }
+}
