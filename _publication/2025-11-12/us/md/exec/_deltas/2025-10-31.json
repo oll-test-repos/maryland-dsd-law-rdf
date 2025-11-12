@@ -1,0 +1,141 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "52",
+      "url": "/us/md/exec/register/52",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "docs_changes": {
+        "Maryland Register, Volume 52, Issue 22": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 22",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/22",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 22|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 22",
+      "path": "regulations",
+      "ptag": "container",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/22#regulations",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 22|regulations|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 22",
+      "path": "regulations|final",
+      "ptag": "container",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/22#regulations/final",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 22|regulations|final|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 22",
+      "path": "regulations|final|24-165-F",
+      "ptag": "container",
+      "cite": "24-165-F",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/22#regulations/final/24-165-F",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 22|regulations|final|24-165-F|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 22",
+      "path": "regulations|final|25-076-F",
+      "ptag": "container",
+      "cite": "25-076-F",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/22#regulations/final/25-076-F",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 22|regulations|final|25-076-F|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 22",
+      "path": "regulations|final|25-077-F",
+      "ptag": "container",
+      "cite": "25-077-F",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/22#regulations/final/25-077-F",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 22|regulations|final|25-077-F|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 22",
+      "path": "regulations|final|25-129-F",
+      "ptag": "container",
+      "cite": "25-129-F",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/22#regulations/final/25-129-F",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 22|regulations|final|25-129-F|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 22",
+      "path": "regulations|final|25-172-F",
+      "ptag": "container",
+      "cite": "25-172-F",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/22#regulations/final/25-172-F",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 22|regulations|final|25-172-F|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 22",
+      "path": "regulations|final|25-177-F",
+      "ptag": "container",
+      "cite": "25-177-F",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/22#regulations/final/25-177-F",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 22|regulations|final|25-177-F|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-11-12",
+  "codified_date": "2025-10-31",
+  "reasons": {
+    "Maryland Register, Volume 52, Issue 22": [
+      "created"
+    ]
+  }
+}
