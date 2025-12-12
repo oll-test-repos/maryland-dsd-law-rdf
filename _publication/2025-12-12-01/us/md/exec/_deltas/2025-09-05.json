@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "52",
+      "url": "/us/md/exec/register/52",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "docs_changes": {
+        "Maryland Register, Volume 52, Issue 18": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 18",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/18",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 18|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 18",
+      "path": "regulations",
+      "ptag": "container",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/18#regulations",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 18|regulations|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 18",
+      "path": "regulations|final",
+      "ptag": "container",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/18#regulations/final",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 18|regulations|final|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 18",
+      "path": "regulations|final|25-009-F-I",
+      "ptag": "container",
+      "cite": "25-009-F-I",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/18#regulations/final/25-009-F-I",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 18|regulations|final|25-009-F-I|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 18",
+      "path": "regulations|final|25-055-F",
+      "ptag": "container",
+      "cite": "25-055-F",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/18#regulations/final/25-055-F",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 18|regulations|final|25-055-F|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 18",
+      "path": "regulations|final|25-060-F",
+      "ptag": "container",
+      "cite": "25-060-F",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/18#regulations/final/25-060-F",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 18|regulations|final|25-060-F|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 18",
+      "path": "regulations|final|25-096-F",
+      "ptag": "container",
+      "cite": "25-096-F",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/18#regulations/final/25-096-F",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 18|regulations|final|25-096-F|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 18",
+      "path": "regulations|final|25-118-F",
+      "ptag": "container",
+      "cite": "25-118-F",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/18#regulations/final/25-118-F",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 18|regulations|final|25-118-F|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 18",
+      "path": "regulations|final|25-119-F",
+      "ptag": "container",
+      "cite": "25-119-F",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/18#regulations/final/25-119-F",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 18|regulations|final|25-119-F|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 18",
+      "path": "regulations|final|25-121-F",
+      "ptag": "container",
+      "cite": "25-121-F",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/18#regulations/final/25-121-F",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 18|regulations|final|25-121-F|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 18",
+      "path": "regulations|final|25-124-F",
+      "ptag": "container",
+      "cite": "25-124-F",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/18#regulations/final/25-124-F",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 18|regulations|final|25-124-F|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 18",
+      "path": "regulations|final|25-130-F-I",
+      "ptag": "container",
+      "cite": "25-130-F-I",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/18#regulations/final/25-130-F-I",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 18|regulations|final|25-130-F-I|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-12-12-01",
+  "codified_date": "2025-09-05",
+  "reasons": {
+    "Maryland Register, Volume 52, Issue 18": [
+      "created"
+    ]
+  }
+}
