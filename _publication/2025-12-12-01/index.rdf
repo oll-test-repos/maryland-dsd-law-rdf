@@ -1,0 +1,11 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2025-12-12-01">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-12-12</dcterms:available>
+    <dcterms:creator xml:lang="en">Open Law Library</dcterms:creator>
+    <dcterms:isPartOf rdf:resource="http://regs.maryland.gov/"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication"/>
+    <rdfs:label xml:lang="en">Publication 2025-12-12-01</rdfs:label>
+    <oll:hasDocument rdf:resource="http://regs.maryland.gov/_publication/2025-12-12-01/_date/2025-08-22/us/md/exec/comar"/>
+    <oll:hasDocument rdf:resource="http://regs.maryland.gov/_publication/2025-12-12-01/_date/2025-08-22/us/md/exec/register/52/17"/>
+  </rdf:Description>
+</rdf:RDF>
