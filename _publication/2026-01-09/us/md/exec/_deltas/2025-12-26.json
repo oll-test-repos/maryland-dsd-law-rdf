@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "52",
+      "url": "/us/md/exec/register/52",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "docs_changes": {
+        "Maryland Register, Volume 52, Issue 26": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 26",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/26",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 26|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 26",
+      "path": "regulations",
+      "ptag": "container",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/26#regulations",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 26|regulations|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 26",
+      "path": "regulations|emergency",
+      "ptag": "container",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/26#regulations/emergency",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 26|regulations|emergency|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 26",
+      "path": "regulations|emergency|25-138-E",
+      "ptag": "container",
+      "cite": "25-138-E",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/26#regulations/emergency/25-138-E",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 26|regulations|emergency|25-138-E|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 26",
+      "path": "regulations|emergency|25-238-E",
+      "ptag": "container",
+      "cite": "25-238-E",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/26#regulations/emergency/25-238-E",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 26|regulations|emergency|25-238-E|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 26",
+      "path": "regulations|final",
+      "ptag": "container",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/26#regulations/final",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 26|regulations|final|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 26",
+      "path": "regulations|final|25-181-F",
+      "ptag": "container",
+      "cite": "25-181-F",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/26#regulations/final/25-181-F",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 26|regulations|final|25-181-F|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 26",
+      "path": "regulations|final|25-202-F",
+      "ptag": "container",
+      "cite": "25-202-F",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/26#regulations/final/25-202-F",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 26|regulations|final|25-202-F|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 26",
+      "path": "regulations|final|25-205-F",
+      "ptag": "container",
+      "cite": "25-205-F",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/26#regulations/final/25-205-F",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 26|regulations|final|25-205-F|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 26",
+      "path": "regulations|final|25-215-F",
+      "ptag": "container",
+      "cite": "25-215-F",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/26#regulations/final/25-215-F",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 26|regulations|final|25-215-F|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 26",
+      "path": "regulations|final|25-227-F",
+      "ptag": "container",
+      "cite": "25-227-F",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/26#regulations/final/25-227-F",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 26|regulations|final|25-227-F|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    },
+    {
+      "doc": "Maryland Register, Volume 52, Issue 26",
+      "path": "regulations|final|25-231-F",
+      "ptag": "container",
+      "cite": "25-231-F",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/md/exec/register/52/26#regulations/final/25-231-F",
+      "doc_mpath": "Maryland Register, Volume 52, Issue 26|regulations|final|25-231-F|",
+      "lib_mpath": "maryland-dsd/law-rdf|us/md/exec/register|52|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-01-09",
+  "codified_date": "2025-12-26",
+  "reasons": {
+    "Maryland Register, Volume 52, Issue 26": [
+      "created"
+    ]
+  }
+}
