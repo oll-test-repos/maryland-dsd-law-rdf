@@ -1,0 +1,552 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-01-24</dcterms:available>
+    <dcterms:creator xml:lang="en">Open Law Library</dcterms:creator>
+    <dcterms:isVersionOf rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/us/md/exec/comar"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Title 01 EXECUTIVE DEPARTMENT
+Title 02 OFFICE OF THE ATTORNEY GENERAL
+Title 03 COMPTROLLER OF THE TREASURY
+Title 04 DEPARTMENT OF GENERAL SERVICES
+Title 05 DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT
+Title 07 DEPARTMENT OF HUMAN SERVICES
+Title 08 DEPARTMENT OF NATURAL RESOURCES
+Title 09 MARYLAND DEPARTMENT OF LABOR
+Title 10 MARYLAND DEPARTMENT OF HEALTH
+Title 11 DEPARTMENT OF TRANSPORTATION
+Title 12 DEPARTMENT OF PUBLIC SAFETY AND CORRECTIONAL SERVICES
+Title 13A STATE BOARD OF EDUCATION
+Title 13B MARYLAND HIGHER EDUCATION COMMISSION
+Title 14 INDEPENDENT AGENCIES
+Title 15 MARYLAND DEPARTMENT OF AGRICULTURE
+Title 16 DEPARTMENT OF JUVENILE SERVICES
+Title 17 DEPARTMENT OF BUDGET AND MANAGEMENT
+Title 18 DEPARTMENT OF ASSESSMENTS AND TAXATION
+Title 19A STATE ETHICS COMMISSION
+Title 20 PUBLIC SERVICE COMMISSION
+Title 21 STATE PROCUREMENT REGULATIONS
+Title 22 STATE RETIREMENT AND PENSION SYSTEM
+Title 23 BOARD OF PUBLIC WORKS
+Title 24 DEPARTMENT OF COMMERCE
+Title 25 OFFICE OF THE STATE TREASURER
+Title 26 DEPARTMENT OF THE ENVIRONMENT
+Title 27 CRITICAL AREA COMMISSION FOR THE CHESAPEAKE AND ATLANTIC COASTAL BAYS
+Title 28 OFFICE OF ADMINISTRATIVE HEARINGS
+Title 29 DEPARTMENT OF STATE POLICE
+Title 30 MARYLAND INSTITUTE FOR EMERGENCY MEDICAL SERVICES SYSTEMS (MIEMSS)
+Title 31 MARYLAND INSURANCE ADMINISTRATION
+Title 32 MARYLAND DEPARTMENT OF AGING
+Title 33 STATE BOARD OF ELECTIONS
+Title 34 DEPARTMENT OF PLANNING
+Title 35 MARYLAND DEPARTMENT OF VETERANS AND MILITARY FAMILIES
+Title 36 MARYLAND STATE LOTTERY AND GAMING CONTROL AGENCY
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Code of Maryland Regulations</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2026-01-24/2025-09-29]: Code of Maryland Regulations</rdfs:label>
+    <oll:codifiedDate>2025-09-29</oll:codifiedDate>
+    <oll:docId>Code of Maryland Regulations</oll:docId>
+    <oll:hasChanges rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/_changes"/>
+    <oll:isPartOfPublication rdf:resource="http://regs.maryland.gov/_publication/2026-01-24"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/09.14.18">
+    <oll:cite xml:lang="en">09.14.18</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|09|14|18|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/09.14.18</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/09.14.18.01">
+    <oll:cite xml:lang="en">09.14.18.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|09|14|18|.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/09.14.18.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/09.14.18.02">
+    <oll:cite xml:lang="en">09.14.18.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|09|14|18|.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/09.14.18.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/09.14.18.03">
+    <oll:cite xml:lang="en">09.14.18.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|09|14|18|.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/09.14.18.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/09.14.18.04">
+    <oll:cite xml:lang="en">09.14.18.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|09|14|18|.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/09.14.18.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/09.14.18.05">
+    <oll:cite xml:lang="en">09.14.18.05</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|09|14|18|.05|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/09.14.18.05</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/09.14.18.06">
+    <oll:cite xml:lang="en">09.14.18.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|09|14|18|.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/09.14.18.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/09.14.18.07">
+    <oll:cite xml:lang="en">09.14.18.07</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|09|14|18|.07|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/09.14.18.07</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/09.14.18.08">
+    <oll:cite xml:lang="en">09.14.18.08</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|09|14|18|.08|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/09.14.18.08</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/09.14.18.09">
+    <oll:cite xml:lang="en">09.14.18.09</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|09|14|18|.09|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/09.14.18.09</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/09.14.18.10">
+    <oll:cite xml:lang="en">09.14.18.10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|09|14|18|.10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/09.14.18.10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/09.14.18.11">
+    <oll:cite xml:lang="en">09.14.18.11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|09|14|18|.11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/09.14.18.11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/09.14.18.12">
+    <oll:cite xml:lang="en">09.14.18.12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|09|14|18|.12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/09.14.18.12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/09.14.18.13">
+    <oll:cite xml:lang="en">09.14.18.13</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|09|14|18|.13|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/09.14.18.13</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.32.06">
+    <oll:cite xml:lang="en">10.32.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|10|32|06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/10.32.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.32.06.02">
+    <oll:cite xml:lang="en">10.32.06.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|10|32|06|.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/10.32.06.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.32.06.04">
+    <oll:cite xml:lang="en">10.32.06.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|10|32|06|.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/10.32.06.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.32.06.06">
+    <oll:cite xml:lang="en">10.32.06.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|10|32|06|.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/10.32.06.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.32.06.07">
+    <oll:cite xml:lang="en">10.32.06.07</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|10|32|06|.07|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/10.32.06.07</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.32.06.09">
+    <oll:cite xml:lang="en">10.32.06.09</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|10|32|06|.09|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/10.32.06.09</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.32.06.10">
+    <oll:cite xml:lang="en">10.32.06.10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|10|32|06|.10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/10.32.06.10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.32.06.11">
+    <oll:cite xml:lang="en">10.32.06.11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|10|32|06|.11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/10.32.06.11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.32.06.12">
+    <oll:cite xml:lang="en">10.32.06.12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|10|32|06|.12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/10.32.06.12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.32.06.13">
+    <oll:cite xml:lang="en">10.32.06.13</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|10|32|06|.13|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/10.32.06.13</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.34.04">
+    <oll:cite xml:lang="en">10.34.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|10|34|04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/10.34.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.34.04.01">
+    <oll:cite xml:lang="en">10.34.04.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|10|34|04|.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/10.34.04.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.34.04.03">
+    <oll:cite xml:lang="en">10.34.04.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|10|34|04|.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/10.34.04.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.34.04.06">
+    <oll:cite xml:lang="en">10.34.04.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|10|34|04|.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/10.34.04.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.34.04.07">
+    <oll:cite xml:lang="en">10.34.04.07</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|10|34|04|.07|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/10.34.04.07</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.34.04.08">
+    <oll:cite xml:lang="en">10.34.04.08</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|10|34|04|.08|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/10.34.04.08</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.34.04.09">
+    <oll:cite xml:lang="en">10.34.04.09</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|10|34|04|.09|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/10.34.04.09</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.34.04.10">
+    <oll:cite xml:lang="en">10.34.04.10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|10|34|04|.10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/10.34.04.10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.34.07">
+    <oll:cite xml:lang="en">10.34.07</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|10|34|07|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/10.34.07</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.34.07.01-1">
+    <oll:cite xml:lang="en">10.34.07.01-1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|10|34|07|.01-1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/10.34.07.01-1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/11.05.03">
+    <oll:cite xml:lang="en">11.05.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|11|05|03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/11.05.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/11.05.03.02">
+    <oll:cite xml:lang="en">11.05.03.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|11|05|03|.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/11.05.03.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/11.05.03.03">
+    <oll:cite xml:lang="en">11.05.03.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|11|05|03|.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/11.05.03.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/15.03.08">
+    <oll:cite xml:lang="en">15.03.08</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|15|03|08|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/15.03.08</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/15.03.08.05">
+    <oll:cite xml:lang="en">15.03.08.05</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|15|03|08|.05|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/15.03.08.05</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.05.01">
+    <oll:cite xml:lang="en">33.05.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|33|05|01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/33.05.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.05.01.04">
+    <oll:cite xml:lang="en">33.05.01.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|33|05|01|.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/33.05.01.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.07.11">
+    <oll:cite xml:lang="en">33.07.11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|33|07|11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/33.07.11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.07.11.01">
+    <oll:cite xml:lang="en">33.07.11.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|33|07|11|.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/33.07.11.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.10.01">
+    <oll:cite xml:lang="en">33.10.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|33|10|01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/33.10.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.10.01.30">
+    <oll:cite xml:lang="en">33.10.01.30</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|33|10|01|.30|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/33.10.01.30</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.11.01">
+    <oll:cite xml:lang="en">33.11.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|33|11|01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/33.11.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.11.01.05">
+    <oll:cite xml:lang="en">33.11.01.05</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|33|11|01|.05|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/33.11.01.05</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.11.03">
+    <oll:cite xml:lang="en">33.11.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|33|11|03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/33.11.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.11.03.06">
+    <oll:cite xml:lang="en">33.11.03.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|33|11|03|.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/33.11.03.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.12.04">
+    <oll:cite xml:lang="en">33.12.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|33|12|04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/33.12.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.12.04.07">
+    <oll:cite xml:lang="en">33.12.04.07</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|33|12|04|.07|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/33.12.04.07</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.17.08">
+    <oll:cite xml:lang="en">33.17.08</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|33|17|08|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/33.17.08</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.17.08.01">
+    <oll:cite xml:lang="en">33.17.08.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|33|17|08|.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/33.17.08.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.17.08.02">
+    <oll:cite xml:lang="en">33.17.08.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|33|17|08|.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/33.17.08.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.17.08.03">
+    <oll:cite xml:lang="en">33.17.08.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|33|17|08|.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/33.17.08.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.17.08.04">
+    <oll:cite xml:lang="en">33.17.08.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|33|17|08|.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/33.17.08.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.17.08.05">
+    <oll:cite xml:lang="en">33.17.08.05</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|33|17|08|.05|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/33.17.08.05</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.17.08.06">
+    <oll:cite xml:lang="en">33.17.08.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|33|17|08|.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/33.17.08.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.17.08.07">
+    <oll:cite xml:lang="en">33.17.08.07</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|33|17|08|.07|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/33.17.08.07</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.17.08.08">
+    <oll:cite xml:lang="en">33.17.08.08</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|33|17|08|.08|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/33.17.08.08</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.17.08.09">
+    <oll:cite xml:lang="en">33.17.08.09</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|33|17|08|.09|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/33.17.08.09</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.17.08.10">
+    <oll:cite xml:lang="en">33.17.08.10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Code of Maryland Regulations|33|17|08|.10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/md/exec/comar/33.17.08.10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/_changes">
+    <rdf:_10 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/09.14.18.09"/>
+    <rdf:_11 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/09.14.18.10"/>
+    <rdf:_12 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/09.14.18.11"/>
+    <rdf:_13 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/09.14.18.12"/>
+    <rdf:_14 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/09.14.18.13"/>
+    <rdf:_15 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.32.06"/>
+    <rdf:_16 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.32.06.02"/>
+    <rdf:_17 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.32.06.04"/>
+    <rdf:_18 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.32.06.06"/>
+    <rdf:_19 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.32.06.07"/>
+    <rdf:_1 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/09.14.18"/>
+    <rdf:_20 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.32.06.09"/>
+    <rdf:_21 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.32.06.10"/>
+    <rdf:_22 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.32.06.11"/>
+    <rdf:_23 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.32.06.12"/>
+    <rdf:_24 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.32.06.13"/>
+    <rdf:_25 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.34.04"/>
+    <rdf:_26 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.34.04.01"/>
+    <rdf:_27 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.34.04.03"/>
+    <rdf:_28 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.34.04.06"/>
+    <rdf:_29 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.34.04.07"/>
+    <rdf:_2 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/09.14.18.01"/>
+    <rdf:_30 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.34.04.08"/>
+    <rdf:_31 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.34.04.09"/>
+    <rdf:_32 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.34.04.10"/>
+    <rdf:_33 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.34.07"/>
+    <rdf:_34 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/10.34.07.01-1"/>
+    <rdf:_35 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/11.05.03"/>
+    <rdf:_36 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/11.05.03.02"/>
+    <rdf:_37 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/11.05.03.03"/>
+    <rdf:_38 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/15.03.08"/>
+    <rdf:_39 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/15.03.08.05"/>
+    <rdf:_3 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/09.14.18.02"/>
+    <rdf:_40 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.05.01"/>
+    <rdf:_41 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.05.01.04"/>
+    <rdf:_42 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.07.11"/>
+    <rdf:_43 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.07.11.01"/>
+    <rdf:_44 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.10.01"/>
+    <rdf:_45 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.10.01.30"/>
+    <rdf:_46 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.11.01"/>
+    <rdf:_47 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.11.01.05"/>
+    <rdf:_48 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.11.03"/>
+    <rdf:_49 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.11.03.06"/>
+    <rdf:_4 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/09.14.18.03"/>
+    <rdf:_50 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.12.04"/>
+    <rdf:_51 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.12.04.07"/>
+    <rdf:_52 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.17.08"/>
+    <rdf:_53 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.17.08.01"/>
+    <rdf:_54 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.17.08.02"/>
+    <rdf:_55 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.17.08.03"/>
+    <rdf:_56 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.17.08.04"/>
+    <rdf:_57 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.17.08.05"/>
+    <rdf:_58 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.17.08.06"/>
+    <rdf:_59 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.17.08.07"/>
+    <rdf:_5 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/09.14.18.04"/>
+    <rdf:_60 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.17.08.08"/>
+    <rdf:_61 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.17.08.09"/>
+    <rdf:_62 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/33.17.08.10"/>
+    <rdf:_6 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/09.14.18.05"/>
+    <rdf:_7 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/09.14.18.06"/>
+    <rdf:_8 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/09.14.18.07"/>
+    <rdf:_9 rdf:resource="http://regs.maryland.gov/_publication/2026-01-24/_date/2025-09-29/us/md/exec/comar/09.14.18.08"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
