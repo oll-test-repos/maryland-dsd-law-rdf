@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "14|22|01",
+      "ptag": "container",
+      "cite": "14.22.01",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/14.22.01",
+      "doc_mpath": "Code of Maryland Regulations|14|22|01|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "14|22|01|.09",
+      "ptag": "section",
+      "cite": "14.22.01.09",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/14.22.01.09",
+      "doc_mpath": "Code of Maryland Regulations|14|22|01|.09|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "14|22|01|.15",
+      "ptag": "section",
+      "cite": "14.22.01.15",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/14.22.01.15",
+      "doc_mpath": "Code of Maryland Regulations|14|22|01|.15|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "14|22|02",
+      "ptag": "container",
+      "cite": "14.22.02",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/14.22.02",
+      "doc_mpath": "Code of Maryland Regulations|14|22|02|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "14|22|02|.02",
+      "ptag": "section",
+      "cite": "14.22.02.02",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/14.22.02.02",
+      "doc_mpath": "Code of Maryland Regulations|14|22|02|.02|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-01-24",
+  "codified_date": "2026-01-01",
+  "reasons": {
+    "Maryland Register, Volume 52, Issue 25": [
+      "applicable"
+    ]
+  }
+}
