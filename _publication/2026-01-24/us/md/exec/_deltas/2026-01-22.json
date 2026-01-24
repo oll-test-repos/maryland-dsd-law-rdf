@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "editorial-actions",
+      "url": "",
+      "lib_mpath": "maryland-dsd/law-rdf|editorial-actions|",
+      "docs_changes": {
+        "Editor Action 2026-01-22": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Editor Action 2026-01-22",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added",
+        "Element effective"
+      ],
+      "url": "/editorial-actions/2026-01-22",
+      "doc_mpath": "Editor Action 2026-01-22|",
+      "lib_mpath": "maryland-dsd/law-rdf|editorial-actions|",
+      "reason": null
+    },
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "10|41|02|.04",
+      "ptag": "section",
+      "cite": "10.41.02.04",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/10.41.02.04",
+      "doc_mpath": "Code of Maryland Regulations|10|41|02|.04|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-01-24",
+  "codified_date": "2026-01-22",
+  "reasons": {
+    "Editor Action 2026-01-22": [
+      "created",
+      "effective"
+    ]
+  }
+}
