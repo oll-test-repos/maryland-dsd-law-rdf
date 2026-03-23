@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "08|02|13",
+      "ptag": "container",
+      "cite": "08.02.13",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/08.02.13",
+      "doc_mpath": "Code of Maryland Regulations|08|02|13|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Code of Maryland Regulations",
+      "path": "08|02|13|.06",
+      "ptag": "section",
+      "cite": "08.02.13.06",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/md/exec/comar/08.02.13.06",
+      "doc_mpath": "Code of Maryland Regulations|08|02|13|.06|",
+      "lib_mpath": "maryland-dsd/law-rdf|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-03-16",
+  "codified_date": "2026-07-15",
+  "reasons": {
+    "Maryland Register, Volume 52, Issue 23": [
+      "applicable"
+    ]
+  }
+}
